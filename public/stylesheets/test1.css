@@ -1,0 +1,51 @@
+ div {
+ 	width: 500px;
+ 	margin: auto;
+	}
+body{
+	background: #e3e3e3;
+	font-family: sans-serif;
+	}
+blockquote{
+	border: 1px solid white;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+h4 {
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.wrapper {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.button {
+    position: center;
+    top: 12cm;
+    
+}
+
+.ipt {
+	position: absolute;
+	left: 40%;
+}
+
+.imggb {
+	float: right;
+	width: 200px;
+	height: 70px;
+	padding-right: 25px;
+}
+
+.Lista {
+	text-align: center;
+}
